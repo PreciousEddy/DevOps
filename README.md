@@ -11,3 +11,4 @@ Use the command line
 - az aks install cli ( az aks get-credentials --resource-group PreciousRG --name PreciousAKS)
 
 ## Create an Helm Chart.
+ - Using a sample application [VoteAPP](https://github.com/PreciousEddy/azure-voting-app-redis.git)
