@@ -42,3 +42,5 @@ Use the command line
 
 ## Run the Helm Chart using:
 > helm install azure-vote-front azure-vote-front/
+
+![image](C:\Users\Precious Edmund\Documents\DevOps\image.png)
