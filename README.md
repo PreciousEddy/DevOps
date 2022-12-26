@@ -18,8 +18,10 @@ Use the command line
 
  - Using a sample application [VoteAPP](https://github.com/PreciousEddy/azure-voting-app-redis.git)
 
+ > git clone https://github.com/PreciousEddy/azure-voting-app-redis.git
+
  - Build and push the sample application to the ACR:
- 
+
   > az acr build --image azure-vote-front:v1 --registry precioushelmacr --file Dockerfile .
 
  ## Create an Helm Chart.
